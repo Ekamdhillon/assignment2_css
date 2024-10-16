@@ -1,0 +1,75 @@
+/* styles.css */
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    text-align: center; /* Add this to center the text */
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 3em;
+    color: #2c3e50;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #34495e;
+}
+
+.lyrics {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.lyrics p {
+    font-size: 1.2em;
+    margin: 10px 0;
+    text-align: center; /* Add this to center the text */
+}
+
+.larger {
+    font-size: 1.4em; /* Increase the font size for emphasized words */
+}
+
+.peaceful {
+    color: #8BC34A; /* Green */
+}
+
+.hopeful {
+    color: #03A9F4; /* Blue */
+}
+
+.neutral {
+    color: #666; /* Gray */
+}
+
+.inspiring {
+    color: #FFC107; /* Orange */
+}
+
+.emotional {
+    color: #E91E63; /* Pink */
+}
+
+.thought-provoking {
+    color: #9C27B0; /* Purple */
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.8em;
+    color: #7f8c8d;
+}
